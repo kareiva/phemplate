@@ -9,7 +9,6 @@ phemplate
 // web:    http://pukomuko.esu.lt
 // info:   template engine
 //
-// Warning: tags and some code were modified by Tomas Šivickas
 //
 //---------------------------------------------------------------------------//
 // copyleft license
